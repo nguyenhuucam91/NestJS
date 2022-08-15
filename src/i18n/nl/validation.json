@@ -1,0 +1,4 @@
+{
+  "required": "This {property} is required but in nl language",
+  "unique": "This {property} must be unique in nl language"
+}
